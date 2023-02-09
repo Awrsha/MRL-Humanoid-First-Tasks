@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<b><h4 align="center">.:: State Machine Implementation ::.</h4></b>
+<b><h4 align="center">.:: All of MRL Humanoid intership tasks ::.</h4></b>
 
 <p align="center">
 <a href="https://github.com/"><img src="https://img.shields.io/badge/Version-1.2.1-brightgreen" alt="HSL" width="100"></a>
@@ -19,11 +19,6 @@
 
 ## MRL Humanoid
 More Information about MRL-HSL 🔗 ([Click for Home Page](https://sites.google.com/view/mrl-hsl))
-
-## What is state machine in programming?
-
-
-A state machine is **a programming architecture that allows dynamic flow to states depending on values from previous states or user inputs**. This architecture is suitable for applications that can be described as a combination of: States. Decision-making logic that determines when to move to a particular state.
 
 ## Better Run 
 
